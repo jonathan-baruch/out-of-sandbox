@@ -1,9 +1,3 @@
-+++
-date = '2026-03-09T23:43:21-03:00'
-draft = false
-title = 'Patagonia 2026'
-+++
-
 ---
 title: "Patagonia: The Ultimate Stress Test"
 date: 2026-03-09T20:00:00-08:00
