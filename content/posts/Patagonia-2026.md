@@ -10,7 +10,7 @@ date: 2026-03-09T20:00:00-08:00
 draft: false
 author: "Jonathan Baruch"
 description: "Migrating from the IDE to the open trail at the edge of the world."
-image: "images/patagonia_stock_header_photo.png"
+image: "images/patagonia_stock_header_photo.webp"
 ---
 
 ## The Migration
