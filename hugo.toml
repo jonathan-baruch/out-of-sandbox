@@ -1,4 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jonathan-baruch.github.io/out-of-sandbox/'
 languageCode = 'en-us'
 title = 'Out of Sandbox'
 theme = 'sans'
+
+[author]
+  name = "Jonathan Baruch"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+
+[params]
+  backgroundColor = "#F9F7F2" 
+  textColor = "#333333"
+  accentColor = "#A68D78"
+  fontFamily = "'Inter', sans-serif"
