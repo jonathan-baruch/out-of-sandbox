@@ -2,9 +2,3 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Out of Sandbox'
 theme = 'sans'
-
-[params]
-  backgroundColor = "#F9F7F2" 
-  textColor = "#333333"
-  accentColor = "#A68D78"
-  fontFamily = "'Inter', sans-serif"
