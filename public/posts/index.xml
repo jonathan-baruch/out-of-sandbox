@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Out of Sandbox</title>
+    <link>http://localhost:1313/out-of-sandbox/posts/</link>
+    <description>Recent content in Posts on Out of Sandbox</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Mar 2026 23:43:21 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/out-of-sandbox/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1: Coyhaique to Puerto Rio Tranquillo</title>
+      <link>http://localhost:1313/out-of-sandbox/posts/patagonia-2026/</link>
+      <pubDate>Mon, 09 Mar 2026 23:43:21 -0300</pubDate>
+      <guid>http://localhost:1313/out-of-sandbox/posts/patagonia-2026/</guid>
+      <description>&lt;p&gt;After yesterday&amp;rsquo;s travels, I decided to sleep in some more today and enjoy a bit of this quiant Hostel made up of old typewriters, a fireplace, and sliding doors counter-weighted by knitted hens. I hit the road by 8AM to get a headstart on the day since I would have the long drive ahead of me. I grabbed gas at the local Copec Station and began my way down South for Puerto Rio Tranquillo, but had no idea what magic the day had in store for me.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

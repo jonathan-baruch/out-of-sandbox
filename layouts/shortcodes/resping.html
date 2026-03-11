@@ -1,0 +1,35 @@
+{{/* 1. Grab parameters */}}
+{{ $src := .Get "src" }}
+{{ $size := .Get "size" | default "800x" }}
+{{ $caption := .Get "caption" }}
+{{ $alt := .Get "alt" | default $caption }}
+
+{{/* 2. Look for the image in the 'assets' folder */}}
+{{ $image := resources.Get $src }}
+
+{{ if $image }}
+    {{/* 3. Perform the resize */}}
+    {{ $resized := $image.Resize $size }}
+    
+    <div class="post-image-container" style="max-width: {{ $resized.Width }}px; margin: 2rem auto; text-align: center;">
+        <figure style="margin: 0;">
+            <img 
+                src="{{ $resized.RelPermalink }}" 
+                width="{{ $resized.Width }}" 
+                height="{{ $resized.Height }}" 
+                alt="{{ $alt }}"
+                style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;"
+            >
+            {{ with $caption }}
+                <figcaption style="font-size: 0.85rem; color: #666; margin-top: 0.75rem; font-style: italic;">
+                    {{ . | markdownify }}
+                </figcaption>
+            {{ end }}
+        </figure>
+    </div>
+{{ else }}
+    {{/* 4. Error handling for the developer */}}
+    <div style="border: 2px dashed #A68D78; padding: 10px; color: #333;">
+        <strong>Asset Error:</strong> Could not find <code>{{ $src }}</code> in the <code>assets/</code> folder.
+    </div>
+{{ end }}
