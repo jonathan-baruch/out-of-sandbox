@@ -1,5 +1,5 @@
 +++
-date = '2026-03-09T23:43:21-03:00'
+date = '2026-03-10T23:43:21-03:00'
 draft = false
 title = 'Day 1: Coyhaique to Puerto Rio Tranquillo'
 +++
