@@ -54,12 +54,18 @@ The route X-728 travels low between the mountains along a river. As the glaciers
 
 Once we arrived at Parque Exploradores, we were pleasantly greeted by the staff (happy that we had brought cake from town). The staff works up here 12 days with 3 days off throughout the season. Lucho had maintained most of the trails found in the park, and was amazing at pointing out every details we could think to ask. This was Antonio's first time here as well, so it was nice to share the experience with someone else.
 
-Once we were able to put our bags down, we headed out to explore the forests and glacier views.
+Once we were able to put our bags down, we headed out to explore the forests and glacier views. Chile is really made up of the small and the big details. The forests in this area are green year round. Due to all the moisture, fires are the least of their concern. The roots of the trees are so shallow that they stretch across the floor every which way. Since it is so wet, stepping on them will cause you to slip even with the newest rubber boots. Antonio calls slipping on these roots a "plop" - trust me, I know from my own (2x) personal experience.
+
+With such a shallow root system, it really speaks to the interconnectivity of this forest plants.
 
 {{< resping src="images/Day2/arriving_to_cabin.png" size="1000x" caption="" >}}
 {{< resping src="images/Day2/forest_walk.png" size="1000x" caption="Heading into the forest trails as the day started to heat up" >}}
 {{< resping src="images/Day2/lucho_trail_work.png" size="1000x" caption="Admiring Lucho's handywork with the newly added wood" >}}
 {{< resping src="images/Day2/woodpecker.png" size="1000x" caption="Woodpeckers in the forest" >}}
+{{< resping src="images/Day2/forest_plant.png" size="1000x" caption="" >}}
+{{< resping src="images/Day2/forest_plant_2.png" size="1000x" caption="" >}}
+{{< resping src="images/Day2/forest_mushroom.png" size="1000x" caption="" >}}
+{{< resping src="images/Day2/forest_tree_buldge.png" size="1000x" caption="When mushrooms start to grow on this tree, it responds by inflating itself around that area to push off the mushrooms. Some tree will have dozens of these buldges." >}}
 
 As the glacier moves across the landscape is pushes the rocks out in front of it. As it recedes it leaves behind small mounds of rock and puddles of water.
 
