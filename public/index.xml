@@ -6,8 +6,15 @@
     <description>Recent content on Out of Sandbox</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 23:43:21 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 23:43:21 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/out-of-sandbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 5: Cerro Castillo</title>
+      <link>http://localhost:1313/out-of-sandbox/posts/day5/</link>
+      <pubDate>Sat, 14 Mar 2026 23:43:21 -0300</pubDate>
+      <guid>http://localhost:1313/out-of-sandbox/posts/day5/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Day 4: Cerro Castillo</title>
       <link>http://localhost:1313/out-of-sandbox/posts/day4/</link>
