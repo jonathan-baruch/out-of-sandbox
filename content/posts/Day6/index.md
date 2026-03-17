@@ -1,0 +1,60 @@
++++
+date = '2026-03-15T23:43:21-03:00'
+draft = false
+title = 'Day 6: Cerro Castillo'
++++
+
+{{< resping src="images/Day6/1.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/2.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/3.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/4.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/5.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/6.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/7.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/8.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/9.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/10.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/11.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/12.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/13.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/14.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/15.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/16.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/17.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/18.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/19.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/20.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/21.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/22.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/23.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/24.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/25.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/26.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/27.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/28.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/29.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/30.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/32.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/33.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/34.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/35.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/36.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/37.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/38.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/39.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/40.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/41.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/42.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/43.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/44.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/45.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/46.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/47.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/48.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/49.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/50.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/51.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/52.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/53.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/54.png" size="1000x" caption="" >}}
+{{< resping src="images/Day6/55.png" size="1000x" caption="" >}}
